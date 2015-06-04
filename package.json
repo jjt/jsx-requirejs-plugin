@@ -1,0 +1,25 @@
+{
+  "name": "jsx-requirejs-plugin",
+  "version": "0.6.2",
+  "description": "A RequireJS plugin for loading and compiling (with r.js) JavaScript files containing JSX",
+  "main": "js/JSXTransformer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philix/jsx-requirejs-plugin.git"
+  },
+  "keywords": [
+    "react",
+    "jsx",
+    "require.js",
+    "r.js"
+  ],
+  "author": "Felipe Oliveira Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philix/jsx-requirejs-plugin/issues"
+  },
+  "homepage": "https://github.com/philix/jsx-requirejs-plugin"
+}
